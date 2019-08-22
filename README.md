@@ -1,1 +1,1 @@
-# google_k8s_1.5.3
+# You can pull it in https://cloud.docker.com/repository/docker/lyndontan
